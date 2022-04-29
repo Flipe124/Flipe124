@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
  
   <div align="center">
+    <img align="center" alt="Felipe-Java" height="34" width="44" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png">
     <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
