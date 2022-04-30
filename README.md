@@ -25,5 +25,5 @@
   
 <div align="center">
   <h1>Projeto página web</h1>
- <a href="https://ibb.co/mXZ3j7H"><img src="https://i.ibb.co/D8cZJn7/Screenshot-1.png" alt="Screenshot-1" border="0"></a>
+ <a href=""><img src="https://i.ibb.co/D8cZJn7/Screenshot-1.png" alt="Screenshot-1" border="0"></a>
 </div>  
