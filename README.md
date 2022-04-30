@@ -24,6 +24,6 @@
 </div>
   
 <div align="center">
-  <h1>Projeto página web</h1>
+  <h1>PROJETO PÁGINA WEB COM BOOTSTRAP</h1>
  <a href="https://github.com/Flipe124/pagina-web-marvel-bootstrap"><img src="https://i.ibb.co/D8cZJn7/Screenshot-1.png" alt="Screenshot-1" border="0"></a>
 </div>  
