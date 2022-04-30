@@ -1,8 +1,8 @@
 
 <div align="center">
   <a href="https://github.com/Flipe124">
-  <img height="280em" width="450em" src="https://github-readme-stats.vercel.app/api?username=Flipe124&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="280em" width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="500px" width="500px" src="https://github-readme-stats.vercel.app/api?username=Flipe124&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="500px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
  
