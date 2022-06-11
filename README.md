@@ -21,7 +21,6 @@
       </a>  
   </div>
 </div>  
-  
 <div align="center">
     <h1>PROJETO PÁGINA WEB COM BOOTSTRAP - FINALIZANDO</h1>
     <a href="https://github.com/Flipe124/pagina-web-marvel-bootstrap">
