@@ -4,10 +4,7 @@
       <img height="20%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=blue-green">
         <img height="20%" width="55%" src="https://github-readme-stats.vercel.app/api?username=Flipe124&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
         
-   ![Snake animation](https://github.com/Flipe124/Flipe124/blob/output/github-contribution-grid-snake.svg)
-   ![snake gif](https://github.com/Flipe124/Flipe124/blob/output/github-contribution-grid-snake.svg)
-   ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
-   ![snake gif](https://github.com/Flipe124/Flipe124/blob/output/github-contribution-grid-snake.svg)
+   ![snake gif](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
    
         
   </div>    
