@@ -1,28 +1,21 @@
-<h1 align="">Olá 👋, me chamo Felipe Oliveira</h1>
-<h3 align="">Desenvolvedor Front-end</h3>
+<img align="right" height="800px" src="https://raw.githubusercontent.com/gist/Flipe124/f5dff7db5f63bf21d7ee2b7e321c97e6/raw/f19828196cf0f861739087129103a36db1bad4af/gistfile1.svg"/>
 
-<br>
+<h1 align="left" height="30px">Olá 🖐, chamo Felipe Oliveira</h1>
+<h3 align="left" height="30px">Desenvolvedor Front-end</h3>
 
-<div>
-   <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=flipe124&theme=dracula" alt="flipe124" />
-   <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=dracula" alt="flipe124" />
-</div>
+<img height="" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=flipe124&theme=dracula" alt="flipe124" />
+<img height="" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=dracula" alt="flipe124" />
 
-<div>
-   <h3 align="">Contato:</h3>
-   <p align="">
-     <a href="https://www.linkedin.com/in/felipe-oliveira-dos-santos-morais-a016991b9/" target="blank">
-       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe oliveira dos santos morais" height="30" width="40" />
-     </a>
-   </p>
-</div>
+<h3 align="">Contato:</h3>
+<p align="">
+  <a href="https://www.linkedin.com/in/felipe-oliveira-dos-santos-morais-a016991b9/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe oliveira dos santos morais" height="30" width="40" />
+  </a>
+</p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+<h3 align="">Linguagens e ferramentas:</h3>
 
-<p align="left">
-  <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a> -->
+<p align="">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -41,9 +34,6 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  <!-- <a href="https://bulma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/>
-  </a> -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
@@ -59,9 +49,6 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   </a>
-  <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a> -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
