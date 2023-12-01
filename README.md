@@ -1,4 +1,4 @@
-<img align="right" height="550px" src="https://raw.githubusercontent.com/gist/Flipe124/f5dff7db5f63bf21d7ee2b7e321c97e6/raw/f19828196cf0f861739087129103a36db1bad4af/gistfile1.svg"/>
+<img align="right" height="850px" src="https://raw.githubusercontent.com/gist/Flipe124/f5dff7db5f63bf21d7ee2b7e321c97e6/raw/9f951e002f4fd305f3af44b9131517e66d27c6d2/gistfile1.svg"/>
 
 <h1 align="left" height="30px">Olá 🖐, chamo Felipe Oliveira</h1>
 <h3 align="left" height="30px">Desenvolvedor Front-end</h3>
