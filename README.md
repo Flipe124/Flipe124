@@ -1,6 +1,6 @@
 <img align="right" height="850px" src="https://raw.githubusercontent.com/gist/Flipe124/f5dff7db5f63bf21d7ee2b7e321c97e6/raw/9f951e002f4fd305f3af44b9131517e66d27c6d2/gistfile1.svg"/>
 
-<h1 align="left" height="30px">Olá 🖐, chamo Felipe Oliveira</h1>
+<h1 align="left" height="30px">Olá 🖐, me chamo Felipe Oliveira</h1>
 <h3 align="left" height="30px">Desenvolvedor Front-end</h3>
 
 <img height="" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=flipe124&theme=dracula" alt="flipe124" />
