@@ -4,7 +4,7 @@
 <h3 align="left" height="30px">Desenvolvedor Front-end</h3>
 
 <img height="" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=flipe124&theme=dracula" alt="flipe124" />
-<img height="" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=dracula" alt="flipe124" />
+<img height="313px" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=dracula" alt="flipe124" />
 
 <h3 align="">Contato:</h3>
 <p align="">
