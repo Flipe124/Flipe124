@@ -1,12 +1,15 @@
 <img align="right" height="850px" src="https://raw.githubusercontent.com/gist/Flipe124/f5dff7db5f63bf21d7ee2b7e321c97e6/raw/9f951e002f4fd305f3af44b9131517e66d27c6d2/gistfile1.svg"/>
 
-<h1 align="left" height="30px">Olá 🖐, me chamo Felipe Oliveira</h1>
-<h3 align="left" height="30px">Desenvolvedor Front-end</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=false&width=650&lines=Hello,+My+name+is+Felipe+Oliveira;I'm+from+Brazil;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<!-- <h1 align="left" height="30px">Olá 🖐, me chamo Felipe Oliveira</h1>
+<h3 align="left" height="30px">Desenvolvedor Front-end</h3> -->
 
 <img height="" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=flipe124&theme=dracula" alt="flipe124" />
 <img height="" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=dracula" alt="flipe124" />
 
-<h3 align="">Contato:</h3>
+<h3 align="">Contact me:</h3>
 <p align="">
   <a href="https://www.linkedin.com/in/felipe-oliveira-dos-santos-morais-a016991b9/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe oliveira dos santos morais" height="30" width="40" />
@@ -69,7 +72,7 @@
 </p> -->
 
 
-<h3 align="">Linguagens e ferramentas:</h3>
+<h3 align="">Languages and tools:</h3>
 <p align="">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
