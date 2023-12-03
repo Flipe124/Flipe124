@@ -1,15 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Felipe+Oliveira;I'm+from+Brazil;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=false&width=1000&lines=Hello,+My+name+is+Felipe+Oliveira;I'm+from+Brazil;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="right" height="850px" src="https://raw.githubusercontent.com/gist/Flipe124/f5dff7db5f63bf21d7ee2b7e321c97e6/raw/9f951e002f4fd305f3af44b9131517e66d27c6d2/gistfile1.svg"/>
+<img align="right" height="650px" src="https://raw.githubusercontent.com/gist/Flipe124/f5dff7db5f63bf21d7ee2b7e321c97e6/raw/9f951e002f4fd305f3af44b9131517e66d27c6d2/gistfile1.svg"/>
 
-<img height="" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=flipe124&theme=radical" alt="flipe124" />
-<img height="" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=radical" alt="flipe124" />
+<div>
+  <img height="180px" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=flipe124&theme=radical" alt="flipe124" />
+  <img height="180px" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=radical" alt="flipe124" />
+</div>
 
 <h3 align="">Contact me:</h3>
 <p align="">
-  <a href="https://www.linkedin.com/in/felipe-oliveira-dos-santos-morais-a016991b9/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe oliveira dos santos morais" height="30" width="40" />
-  </a>
+  <a href = "mailto:cmp.1a.felipe.morais.job@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/carolbarbosa/](https://www.linkedin.com/in/felipe-oliveira-dos-santos-morais-a016991b9/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </p>
 
 <h3 align="">Languages and tools:</h3>
@@ -58,6 +59,10 @@
 <!-- <h1 align="left" height="30px">Olá 🖐, me chamo Felipe Oliveira</h1>
 <h3 align="left" height="30px">Desenvolvedor Front-end</h3> -->
 
+<!--   <a href="https://www.linkedin.com/in/felipe-oliveira-dos-santos-morais-a016991b9/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe oliveira dos santos morais" height="30" width="40" />
+  </a> -->
+  
 <!-- <h3 align="">Front-end:</h3>
 <p>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
