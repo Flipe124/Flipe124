@@ -1,7 +1,8 @@
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Felipe+Oliveira;I'm+from+Brazil;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <img align="right" height="850px" src="https://raw.githubusercontent.com/gist/Flipe124/f5dff7db5f63bf21d7ee2b7e321c97e6/raw/9f951e002f4fd305f3af44b9131517e66d27c6d2/gistfile1.svg"/>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=false&width=650&lines=Hello,+My+name+is+Felipe+Oliveira;I'm+from+Brazil;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- <h1 align="left" height="30px">Olá 🖐, me chamo Felipe Oliveira</h1>
 <h3 align="left" height="30px">Desenvolvedor Front-end</h3> -->
