@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=false&width=1000&lines=Hello,+My+name+is+Felipe+Oliveira;I'm+from+Brazil;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="right" height="650px" src="https://raw.githubusercontent.com/gist/Flipe124/f5dff7db5f63bf21d7ee2b7e321c97e6/raw/9f951e002f4fd305f3af44b9131517e66d27c6d2/gistfile1.svg"/>
+<img align="" width="100%" src="https://raw.githubusercontent.com/gist/Flipe124/8ad2dbcb9d10fcff3e690c5b588f59d2/raw/20ca29337cc7ecc27743ade7e2d53fa247940b15/bannerGithub.svg"/>
 
 <div>
-  <img height="180px" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=flipe124&theme=radical" alt="flipe124" />
-  <img height="180px" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=radical" alt="flipe124" />
+  <img height="220px" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=flipe124&theme=radical" alt="flipe124" />
+  <img height="220px" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=radical" alt="flipe124" />
 </div>
 
 <h3 align="">Contact me:</h3>
