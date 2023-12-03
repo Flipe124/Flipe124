@@ -9,8 +9,9 @@
 
 <h3 align="">Contact me:</h3>
 <p align="">
-  <a href = "mailto:cmp.1a.felipe.morais.job@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:cmp.1a.felipe.morais.job@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/carolbarbosa/](https://www.linkedin.com/in/felipe-oliveira-dos-santos-morais-a016991b9/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+  <a href="https://felipe-developer.netlify.app"> <img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank">
 </p>
 
 <h3 align="">Languages and tools:</h3>
