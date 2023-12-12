@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=false&width=1000&lines=Hello,+My+name+is+Felipe+Oliveira;I'm+from+Brazil;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="" width="100%" src="https://raw.githubusercontent.com/gist/Flipe124/8ad2dbcb9d10fcff3e690c5b588f59d2/raw/20ca29337cc7ecc27743ade7e2d53fa247940b15/bannerGithub.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/gist/Flipe124/8ad2dbcb9d10fcff3e690c5b588f59d2/raw/20ca29337cc7ecc27743ade7e2d53fa247940b15/bannerGithub.svg"/>
 
 <div>
   <img height="203px" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=flipe124&theme=radical" alt="flipe124" />
   <img height="203px" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe124&layout=compact&langs_count=7&theme=radical" alt="flipe124" />
 </div>
 
-<h3 align="">Contact me:</h3>
-<p align="">
+<h3>Contact me:</h3>
+<p>
   <a href="mailto:cmp.1a.felipe.morais.job@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="">Languages and tools:</h3>
-<p align="">
+<p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
