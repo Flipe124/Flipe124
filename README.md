@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=false&width=1000&lines=Hello,+My+name+is+Felipe+Oliveira;I'm+from+Brazil;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img width="100%" src="https://raw.githubusercontent.com/gist/Flipe124/8ad2dbcb9d10fcff3e690c5b588f59d2/raw/20ca29337cc7ecc27743ade7e2d53fa247940b15/bannerGithub.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/gist/Flipe124/8ad2dbcb9d10fcff3e690c5b588f59d2/raw/3576cedadcb9a111ada969dde5279e9d44b3cbc3/bannerGithub.svg"/>
 
 <div>
   <img height="203px" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=flipe124&theme=radical" alt="flipe124" />
